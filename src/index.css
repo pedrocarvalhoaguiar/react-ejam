@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 425px) {
+    html {
+     font-size: 65%
+    }
+   }
+
+:root {
+    box-sizing: border-box;
+}
